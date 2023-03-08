@@ -2,7 +2,7 @@
 - 👀 I’m interested in VS Code extension development
 - 🌱 I’m currently learning TypeScript coding and TextMate grammar
 - 💞️ I’m looking to collaborate on Daffodil DFDL SChemas editor and debugger 
-- 📫 How to reach me email: r.nteligen@gmail.com
+- 📫 How to reach me email: regis.thomas@nteligen.com
 
 <!---
 rt320/rt320 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
